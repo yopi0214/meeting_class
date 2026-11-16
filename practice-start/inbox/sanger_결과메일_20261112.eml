@@ -1,0 +1,18 @@
+X-Example: 예시 — 실습용 가상 자료입니다.
+From: OO바이오 시퀀싱팀 <seq@oobio.example>
+To: 본인 <me@lab.example>
+Date: Thu, 12 Nov 2026 10:21:00 +0900
+Subject: [분석 완료] Sanger sequencing 결과 안내 (주문번호 S-2026-1111-07)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+안녕하세요.
+2026-11-11에 의뢰하신 시료의 분석 결과를 알려 드립니다.
+
+- clone3_F (primer TP53-ex4-F): 분석 완료. 표적 부위 이후부터 이중 피크가 나타납니다.
+- clone5_F (primer TP53-ex4-F): 신호가 약해 판독 품질이 낮습니다. 시료를 다시 보내 주시면 재분석해 드립니다.
+
+원본 파일(clone3_F.ab1, clone5_F.ab1)은 이 메일에 첨부했습니다.
+
+감사합니다.

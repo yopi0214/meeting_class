@@ -1,0 +1,9 @@
+# 줄 끝은 git이 알아서 처리
+* text=auto
+
+# Office 파일과 그림은 바이너리 (내용 비교·병합을 하지 않음)
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.png binary
+*.pdf binary
